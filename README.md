@@ -1,1 +1,1 @@
-#THIS IS A TEST!!!
+Python / minerva tutorial scripts and data sets
